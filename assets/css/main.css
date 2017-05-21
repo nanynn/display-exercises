@@ -1,0 +1,25 @@
+*{
+	font-family: 'Raleway', sans-serif;
+}
+/* Ejercicio 01 = index1 */
+.ejercicio-uno{
+	text-align: left;
+	color: #000;
+}
+.parr-uno{
+	background: #FFF315;
+	padding: 3px 20px 20px 3px;
+
+}
+
+.parr-dos{
+	background:#FF3D49;
+	padding: 3px  20px 20px 3px;
+	border:1px solid #000;
+}
+
+.parr-tres{
+	background: #FFF315;
+	padding: 3px  20px 20px 3px;
+}
+
