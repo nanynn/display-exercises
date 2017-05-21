@@ -23,3 +23,28 @@
 	padding: 3px  20px 20px 3px;
 }
 
+/* Ejercicio 02 = index2 */
+.ejercicio-dos{
+	text-align: left;
+	color: #000;
+	margin: 0 auto;
+	width: 20%;
+}
+
+.box-uno{
+	background: #FFF315;
+	padding: 3px 20px 20px 3px;
+	margin: 10px 0;
+}
+
+.box-dos{
+	background:#FF3D49;
+	padding: 3px 20px 20px 3px;
+	margin: 10px 0;
+}
+
+.box-tres{
+	background: #FFF315;
+	padding: 3px 20px 20px 3px;
+}
+
