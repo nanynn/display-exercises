@@ -48,3 +48,27 @@
 	padding: 3px 20px 20px 3px;
 }
 
+/* Ejercicio 03 = index3 */
+.ejercicio-tres{
+	text-align: center;
+	margin: 0 auto;
+	width: 30%;
+
+}
+.caja-uno{
+	background: #FFF315;
+	float: left;
+	padding: 10px;
+	margin-right: 8px;
+}
+.caja-dos{
+	background:#FF3D49;
+	float: left;
+	padding: 10px;
+	margin-right: 8px;
+}
+.caja-tres{
+	background: #FFF315;
+	float: left;
+	padding: 10px;
+}
