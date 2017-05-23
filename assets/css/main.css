@@ -72,3 +72,53 @@
 	float: left;
 	padding: 10px;
 }
+
+/* Ejercicio 04 = index4 */
+.ejercicio-cuatro{
+	text-align: left;
+	margin: 0 auto;
+	width: 50%;
+
+}
+.caja-uno2{
+	background: #FFF315;
+	float: left;
+	padding: 0 50px 30px 0;
+	margin-right: 8px;
+}
+.caja-dos2{
+	background:#FF3D49;
+	float: left;
+	padding: 0 50px 30px 0;
+	margin-right: 8px;
+}
+.caja-tres2{
+	background: #FFF315;
+	float: left;
+	padding: 0 50px 30px 0;
+}
+
+/* Ejercicio 05 = index5 */
+.ejercicio-cinco div{
+	height: 40px;
+	width: 40px;
+	border: 2px solid #000;
+	background: #FFF315;
+	display: block;
+}
+
+.cj-uno{
+}
+
+.contendor{
+	height: 130px;
+	width: 200px;
+	background-color:#FF3D49;
+	display: block;
+	padding: 10px;
+}
+.box-one .box-two .box-three{
+	float: left;
+	display:inline;
+}
+
